@@ -1,0 +1,7 @@
+.SelectTrigger[data-placeholder] {
+  color: #71717a;
+}
+
+.ToggleGroupItem[data-state="on"] {
+  background-color: #8b5cf6;
+}
